@@ -79,4 +79,4 @@ theme: tranquilpeak
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ykworx/ykworx.github.io.git
+  repo: git@github.com:ykworx/ykworx.github.io.git
